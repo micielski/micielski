@@ -1,4 +1,4 @@
-IRC: `micielski` on libera chat  
+IRC: `rmicielski` on libera chat  
 Email: `rmicielski at purelymail com`  
 Codeberg: `micielski`  
   
