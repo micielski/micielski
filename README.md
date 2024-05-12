@@ -11,3 +11,5 @@ Most of my projects are on Codeberg.
 TODO:  
 - offline version of TMDB
 - a simple IRC bouncer meant to be used by one person only ~(znc sucks!)~
+
+:D
