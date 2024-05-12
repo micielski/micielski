@@ -7,3 +7,7 @@ Most of my projects are on Codeberg.
 [lemmynator](https://codeberg.org/micielski/lemmynator) - gorgeus looking (thanks to nerd fonts) TUI for lemmy. WIP, unusable, no documentation  
 [makakernel](https://codeberg.org/micielski/makekernel) - something like yocto project or buildroot? WIP, unusable for anyone except for me  
 [wallhavened](https://codeberg.org/micielski/wallhavened) - ruby script for downloading collections from wallhaven. WIP, no documentation  
+
+TODO:  
+- offline version of TMDB
+- a simple IRC bouncer meant to be used by one person only ~(znc sucks!)~
