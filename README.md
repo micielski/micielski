@@ -3,7 +3,7 @@ Email: `rmicielski at purelymail com`
 Codeberg: `micielski`  
 
 Most of my projects are on Codeberg.  
-[rustmission](https://codeberg.org/intuis/rustmission) - TUI client for transmission.  
+[rustmission](https://github.com/intuis/rustmission) - TUI client for transmission.  
 [lemmynator](https://codeberg.org/micielski/lemmynator) - TUI for lemmy. WIP, unusable, no docs  
 [makekernel](https://codeberg.org/micielski/makekernel) - something like yocto project or buildroot? WIP, unusable for anyone except for me  
 [wallhavened](https://codeberg.org/micielski/wallhavened) - ruby script for downloading collections from wallhaven. WIP, no docs  
