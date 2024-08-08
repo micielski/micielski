@@ -1,5 +1,4 @@
-XMPP(preferred): rmicielski@jabbers.one  
-Email: `rmicielski at purelymail com`  
+XMPP: rmicielski@jabbers.one  
 Codeberg: `micielski`  
 
 Most of my projects are on Codeberg.  
