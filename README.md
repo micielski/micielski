@@ -1,4 +1,5 @@
-XMPP: rmicielski@jabbers.one  
+XMPP: `rmicielski@jabbers.one`  
+irc: `micielski` at libera.chat  
 Codeberg: `micielski`  
 
 Most of my projects are on Codeberg.  
