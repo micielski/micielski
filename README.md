@@ -1,14 +1,20 @@
-XMPP: `rmicielski@jabbers.one`  
-irc: `micielski` at libera.chat  
-Codeberg: `micielski`  
+<img align="left" width="100" height="100" src="https://github.com/user-attachments/assets/6aa85712-aab6-4ca8-be51-b8ae38735be5">
 
+XMPP: `rmicielski@jabbers.one`  
+Matrix: `@erth@noevil.pl`  
+IRC: `micielski` at libera.chat  
+Codeberg: `micielski`  
+  
+
+  
 Most of my projects are on Codeberg.  
-[rustmission](https://github.com/intuis/rustmission) - TUI client for transmission.  
-[lemmynator](https://codeberg.org/intuis/lemmynator) - TUI for lemmy. WIP, unusable, no docs  
-[makekernel](https://codeberg.org/micielski/makekernel) - something like yocto project or buildroot? WIP, unusable for anyone except for me  
+[rustmission](https://github.com/intuis/rustmission) - TUI for transmission.
+[lemmynator](https://codeberg.org/intuis/lemmynator) - WIP TUI for lemmy.
 [wallhavened](https://codeberg.org/micielski/wallhavened) - ruby script for downloading collections from wallhaven. WIP, no docs  
 
 TODO:  
 - offline version of TMDB
-- a simple IRC bouncer meant to be used by one person only ~(u suck znc!)~
+- manpage reader
+- a simple IRC bouncer meant to be used by one person only
 - rssd, rss/atom version of mpd
+- TUI for navidrome
