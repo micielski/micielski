@@ -7,9 +7,9 @@ Codeberg: `micielski`
   
 
   
-Most of my projects are on Codeberg.  
-[rustmission](https://github.com/intuis/rustmission) - TUI for transmission.
-[lemmynator](https://codeberg.org/intuis/lemmynator) - WIP TUI for lemmy.
+My main projects:  
+[rustmission](https://github.com/intuis/rustmission) - TUI for transmission.  
+[lemmynator](https://codeberg.org/intuis/lemmynator) - WIP TUI for lemmy.  
 [wallhavened](https://codeberg.org/micielski/wallhavened) - ruby script for downloading collections from wallhaven. WIP, no docs  
 
 TODO:  
