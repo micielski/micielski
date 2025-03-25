@@ -1,20 +1,13 @@
-<img align="left" width="100" height="100" src="https://github.com/user-attachments/assets/6aa85712-aab6-4ca8-be51-b8ae38735be5">
+My pain is constant and sharp, and I do not  
+hope for a better world for anyone.  
+In fact, I want my pain to be inflicted on others.  
+I want no one to escape.  
+But even after admitting this, there is  
+no catharsis; my punishment continues to elude  
+me, and I gain no deeper knowledge of myself.  
+No new knowledge can be extracted from  
+my telling.  
+This confession has meant nothing.  
 
 XMPP: `rmicielski@jabbers.one`  
-Matrix: `@erth@noevil.pl`  
-IRC: `micielski` at libera.chat  
-Codeberg: `micielski`  
-  
-
-  
-My main projects:  
-[rustmission](https://github.com/intuis/rustmission) - TUI for transmission.  
-[lemmynator](https://codeberg.org/intuis/lemmynator) - WIP TUI for lemmy.  
-[wallhavened](https://codeberg.org/micielski/wallhavened) - ruby script for downloading collections from wallhaven. WIP, no docs  
-
-TODO:  
-- offline version of TMDB
-- manpage reader
-- a simple IRC bouncer meant to be used by one person only
-- rssd, rss/atom version of mpd
-- TUI for navidrome
+Matrix: `@erth@noevil.pl`
