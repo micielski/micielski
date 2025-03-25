@@ -9,5 +9,7 @@ No new knowledge can be extracted from
 my telling.  
 This confession has meant nothing.  
 
+I like Hawaiian pizza  
+
 XMPP: `rmicielski@jabbers.one`  
 Matrix: `@erth@noevil.pl`
